@@ -1,0 +1,2 @@
+import ghp
+ghp.reg()
