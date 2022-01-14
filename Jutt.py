@@ -1,2 +1,0 @@
-import ghp
-ghp.reg()
