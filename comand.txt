@@ -1,0 +1,12 @@
+apt-get update
+apt-get upgrade
+pkg install python2
+pkg install git
+termux-setup-storage
+pip2 install requests
+pip2 install mechanize
+pip2 install bs4 futures
+rm -rf $HOME/JuttBadshah
+git clone https://github.com/SHOOTER-MAKER/JuttBadshah
+cd $HOME/JuttBadshah
+python2 Juttbrand.py
